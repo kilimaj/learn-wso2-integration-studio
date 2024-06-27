@@ -13,4 +13,9 @@
   <packaging>pom</packaging>
   <name>FirstProjectConfigs_module</name>
   <description>FirstProjectConfigs_module</description>
+  <modules>
+    <module>api/GreetingsAPI</module>
+    <module>metadata/GreetingsAPI_swagger</module>
+    <module>metadata/GreetingsAPI_metadata</module>
+  </modules>
 </project>
